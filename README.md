@@ -13,8 +13,8 @@ We utilize the encoder to achieve the feature tracking
 <img src="Figures/Ric_standrad_autoencoder.png" width="400">
 
 ## The detail about the skin feature tracking
-The detail about the AutoEncoder and skin feature tracking is described in Chang2021, including the training and validation.
-This repository improves the tracking algorithm proposed by Chang2021 and make it able to track rapid movement skin feature such as FTT.
+The detail about the AutoEncoder and skin feature tracking is described in [Chang2021](https://arxiv.org/abs/2112.14159), including the training and validation.
+This repository improves the tracking algorithm proposed by [Chang2021](https://arxiv.org/abs/2112.14159) and make it able to track rapid movement skin feature such as FTT.
 
 ## Tracking algorithm
 In contrast to the previous tracking algorithm, we add the "reference group" to improve the robustness.
@@ -25,3 +25,8 @@ The idea of the reference group is to add more than one reference target to the 
 ## Result
 <img src="Figures/tracking_comp_dfe_sticker.png" width="400">
 <img src="Figures/example1.gif" width="150">
+
+
+## Reference
+Chang, J. R., & Nordling, T. E. (2021). Skin feature point tracking using deep feature encodings. arXiv preprint arXiv:2112.14159.
+
