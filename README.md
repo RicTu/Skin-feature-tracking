@@ -24,4 +24,4 @@ The idea of the reference group is to add more than one reference target to the 
 
 ## Result
 <img src="Figures/tracking_comp_dfe_sticker.png" width="400">
-<img src="Figures/example1.png" width="400">
+<img src="Figures/example1.gif" width="150">
